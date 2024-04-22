@@ -1,0 +1,53 @@
+
+# Dependency directories
+node_modules/
+
+# Environment variables file (if used)
+.env
+
+# IDE or editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and debug files
+npm-debug.log
+yarn-error.log
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Coverage directory (if using a code coverage tool)
+coverage/
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# macOS folder attributes
+._*
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# dotenv environment variables file
+.env
+
+# TypeScript build output
+/dist/
+
+# Optional: Config files that may contain sensitive information (e.g., database credentials)
+config/*.json
